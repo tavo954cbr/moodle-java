@@ -56,3 +56,41 @@ Hacer un algoritmo que nos permita saber cuál es el número mayor y menor, se d
 Hacer un algoritmo para calcular la serie de Fibonacci.
 ### Ejercicio 10
 Hacer un algoritmo para conseguir el M.C.D de un número por medio del algoritmo de Euclides.
+
+
+
+Programa 1. (5 puntos) El siguiente código contiene una clase Pedido para realizar un seguimiento de los envíos de compras a minoristas.
+
+public class Pedido {
+
+     public static void main(String[] args) {
+
+          double costoArticulo = 30.99;
+
+          boolean listoEviar=false;
+
+     }
+
+}
+
+
+
+Escribe una declaración usando if que imprima ¡El valor del artículo es alto! cuando costoArticulo es mayor que 24.00.
+
+En el código de arriba hay variable listoEnviar cuyo valor representa si el pedido está listo para enviarse. Escribe un enunciado if-then-else que:
+
+Cuando listoEnviar sea verdadero (true), imprima Enviado.
+
+Cuando listoEnviar sea falso (false), imprima Pedido no listo.
+
+Toma captura de pantalla del código completo y del programa compilado.
+
+Programa 2. (5 puntos) Realiza un programa en java que imprima los primeros 15 elementos de alguna de las siguientes series haciendo uso necesariamente de las sentencias de control:
+
+Serie de números impares positivos
+1, 3, 5, 7, 9, 11, 13, 15, 17, .... así sucesivamente.
+
+Serie de Fibonacci
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ... así sucesivamente.
+
+Toma captura de pantalla del código completo y del programa compilado.

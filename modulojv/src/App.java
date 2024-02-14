@@ -1,23 +1,23 @@
 import java.util.Scanner;
 public class App {
-    public static void main(String[] args){
-        // System.out.println("Hello, World!");
-        Scanner sc = new Scanner(System.in);
-        System.out.println("división");
-        System.out.println("Ingresa dos numeros");
-        System.out.println("Divisor : ");
-        int Number1 = Integer.parseInt(sc.nextLine());
-        if (Number1 = 0) {
-            System.out.println("¡Error el 0 no puede ser divisor");
-        }
-        int N1 = Number1;
-        System.out.println("Dividendo : ");
-        int Number2 = Integer.parseInt(sc.nextLine());
-        int N2 = Number2;
-        long div = N2 / N1;
-        System.out.println("El resultado es : " + div);
-        sc.close();
-    }
+//    public static void main(String[] args){
+//        // System.out.println("Hello, World!");
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("división");
+//        System.out.println("Ingresa dos numeros");
+//        System.out.println("Divisor : ");
+//        int Number1 = Integer.parseInt(sc.nextLine());
+//        if (Number1 = 0) {
+//            System.out.println("¡Error el 0 no puede ser divisor");
+//        }
+//        int N1 = Number1;
+//        System.out.println("Dividendo : ");
+//        int Number2 = Integer.parseInt(sc.nextLine());
+//        int N2 = Number2;
+//        long div = N2 / N1;
+//        System.out.println("El resultado es : " + div);
+//        sc.close();
+//    }
 
 
     
