@@ -27,3 +27,6 @@ alumnos.pop();
 saca al ultimo de la lista "Rodrigo"
 
 en estructura de cola ("FIfo") se al reves empieza por el primero de la fila
+
+*
+
